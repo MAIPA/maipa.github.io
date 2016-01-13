@@ -1,1 +1,1 @@
-# website
+Basic Website for MAIPA
