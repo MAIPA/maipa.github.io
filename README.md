@@ -1,1 +1,3 @@
-Basic Website for MAIPA
+# MAIPA main page
+
+Will eventually be portal to maipa-core API
